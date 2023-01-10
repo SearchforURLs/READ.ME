@@ -1,6 +1,4 @@
 # READ.ME
-A little description of this project.
+Welcome to the official Search for URL's Github page!
 
-A website that is a nostalgic alternative to Google.com
-
-By using the free Google search engine API, you can search for almost anything on Search URL.
+Here you can find the raw files for Search URL and even potentially new and upcoming stuff for it.
